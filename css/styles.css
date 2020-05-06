@@ -1,0 +1,50 @@
+/* ******************************** TAG SELECTORS ******************************** */
+body {
+  background-image: url("https://fletchers.com/wp-content/uploads/iStock-808217846-600x600.jpg");
+}
+table {
+  margin: auto;
+}
+h1 {
+  color: red;
+  font-size: 50px;
+}
+p {
+  font-size: 25px;
+}
+/*
+img {
+  width: 300px;
+} */
+
+/* ******************************** CLASS SELECTORS ******************************** */
+
+
+.container {
+  width: 700px;
+  height: 700px;
+  position: relative;
+  margin: auto;
+}
+.bacon {
+  width: 300px;
+  position: absolute;
+  top: 100px;
+  left: 30px;
+}
+
+.dan {
+  border-radius: 100%;
+  width: 300px;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+.text {
+  background-color: white;
+  width: 250px;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  text-align: center;
+}
